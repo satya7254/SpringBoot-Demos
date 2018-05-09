@@ -17,6 +17,7 @@ import com.satya.springboot.config.ServerProperties;
 public class SpringBootApp {
 	
     public static void main(String[] args){
+    	// Spring Boot application
         SpringApplication.run(SpringBootApp.class, args);
 
     }
