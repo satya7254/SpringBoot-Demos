@@ -19,6 +19,6 @@ public class SpringBootApp {
     public static void main(String[] args){
     	// Spring Boot application
         SpringApplication.run(SpringBootApp.class, args);
-
+        System.out.println("Spring Boot application started");
     }
 }
