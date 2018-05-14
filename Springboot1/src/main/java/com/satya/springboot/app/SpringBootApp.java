@@ -17,8 +17,8 @@ import com.satya.springboot.config.ServerProperties;
 public class SpringBootApp {
 	
     public static void main(String[] args){
-    	// Spring Boot application
+    	// Spring Boot application //
         SpringApplication.run(SpringBootApp.class, args);
-        System.out.println("Spring Boot application started");
+        System.out.println("Spring Boot application started...");
     }
 }
